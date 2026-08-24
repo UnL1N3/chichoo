@@ -1,2 +1,2 @@
 # chichoo
-创建一个仓库
+I generate a hub
